@@ -1,6 +1,8 @@
 # panatrans-ocr
 
-Depenencies (MacOS)
+  First attempt to get a list of stops from route on pdf.
+
+## Depenencies
 
 * https://code.google.com/p/tesseract-ocr/
 * http://www.imagemagick.org/
